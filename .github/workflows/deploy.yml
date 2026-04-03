@@ -1,5 +1,5 @@
 # app01/.github/workflows/deploy.yml
-name: fastapi
+name: fastapi 왜 안되노
 
 on: 
   push: 
