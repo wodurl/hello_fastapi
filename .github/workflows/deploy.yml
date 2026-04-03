@@ -1,5 +1,5 @@
 # app01/.github/workflows/deploy.yml
-name: fastapi를 aws linux에 배포하기
+name: fastapi
 
 on: 
   push: 
